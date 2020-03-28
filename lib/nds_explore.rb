@@ -4,7 +4,7 @@ require 'directors_database'
 
 def pretty_print_nds(nds)
   puts "XXXXXXXXXXX" 
-  puts pp directors_database
+  puts directors_database
   puts "XXXXXXXXXXX" 
 end
 
